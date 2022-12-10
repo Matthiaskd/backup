@@ -132,11 +132,3 @@ void print_matrix(double matrix[][10]){
 	}
 }
 
-
-
-int main(void){
-	//still need to figure out wheter the item to read is a 1-D or 2-D matrix
-	dir_exists("bin");
-	// char* path="bin/mat";
-	return 0;
-}
